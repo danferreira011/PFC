@@ -1,0 +1,12 @@
+Ao Orientador Prof. Eduardo Lobo
+
+O trabalho encontra-se incompleto, pois ainda falta organizar os menus, as validações, padronizações e alguns requisitos. 
+
+Os cadastros estão todos pronto(somente a parte funcional como citado anteriormente), as funções abrirOS e FinalizarOS, também se encontram funcionando, porem ainda faltam as outras funções do software.
+
+O projeto esta criado na linguagem PHP OO, utilizado como SGBD o mySQL, então para testá-lo é necessário ter os mesmos instalados na maquina. Particularmente utilizo o programa WAMP (que pode ser baixado livremente da WEB), que instala automaticamente tudo que você precisa para rodar aplicações em PHP.
+
+
+Descompacte o arquivo PFC.rar na pasta de trabalho do servidor, que no caso do wamp é <www>. Recuperar o banco dbpfc.sql no mysql e configurar o arquivo conexaobr.inc com os dados do seu SGBD.
+
+Apos, tudo realizado, para testar o programa abra o navegador e digite: http://localhost/ então você terá acesso á pasta no navegador. Então basta selecionar o arquivo na pasta Interfaces_PFC para testar os mesmos.
